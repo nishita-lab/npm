@@ -1,0 +1,20 @@
+  
+{
+  "name": "npm_validation_test",
+  "version": "8.1.0",
+  "description": "testing npm publish with Actions",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@gecgithub01.walmart.com:devtools-testing/npm_validation.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-validator": "^3.1.2",
+    "mongoose": "^4.8.7",
+    "nodemon": "^1.14.12"
+  },
+  "author": "lbpage",
+  "license": "Apache-2.0"
+}
