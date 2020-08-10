@@ -6,7 +6,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@gecgithub01.walmart.com:devtools-testing/npm_validation.git"
+    "url": "https://github.com/nishita-lab/npm.git"
   },
   "dependencies": {
     "body-parser": "^1.17.1",
